@@ -1,0 +1,239 @@
+.text-center {
+    text-align: center!important;
+}
+.mt-5, .my-5 {
+    margin-top: 3rem!important;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.footer_tag {
+    font-size: 14px;
+}
+.anchor_tag {
+    font-size: 12px;
+}
+.pb-3, .py-3 {
+    padding-bottom: 1rem!important;
+}
+.pt-3, .py-3 {
+    padding-top: 1rem!important;
+}
+
+.anchor_tag a:hover {
+    color: #278724;
+}
+.anchor_tag a {
+    padding: 10px;
+    color: #41a93e;
+}
+.copyright {
+    font-size: 13px;
+    color: #6b6b6b;
+}
+.footer_content p {
+    font-size: 13px;
+    color: #6b6b6b;
+}
+footer{
+    margin-bottom: 2rem;
+    width: 100%;
+}
+.top-bar {
+    background: #52b5f3;
+    font-size: 14px;
+    color: #fff;
+    padding: 6px 0px;
+}
+.font-regular {
+    font-family: cera_regular !important;
+}
+.top-bar p {
+    font-size: 16px;
+    color:#fff!important;
+}
+section {
+    width: 100%;
+    margin: 0 auto;
+}
+}
+.font-bold {
+    font-family: cera_bold !important;
+}
+.bg-white {
+    background-color: #fff!important;
+}
+#head_bar {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 20rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.img-fluid1 {
+    width: 22% !important;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+.pl-4, .px-4 {
+    padding-left: 1.5rem!important;
+}
+.nav-flag {
+    max-width: 5%;
+}
+.nav-flag {
+    margin-left: 370px;
+    float: right;
+    padding-top: 9px;
+    margin-right: -5%;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    /*padding: .5rem 1rem;*/
+}
+
+@media only screen and (max-width: 1112px){
+    .nav-flag {
+        margin-left: 0px;
+        float: right;
+        padding-top: 9px;
+        margin-right: -5%;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px){
+    .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+        margin-left: -4%;
+        width: 50%;
+    }
+    .nav-flag {
+        margin-left: 0px;
+        float: right;
+        padding-top: 9px;
+    }
+}
+
+@media only screen and (max-width: 767px)
+{
+.logo_m_header {
+    display: block;
+    text-align: center;
+    margin-right: 0px;
+}
+.img-fluid1 {
+    width: 22% !important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.nav-flag {
+    margin-left: 20px;
+    position: absolute;
+    display: inline-block;
+    right: 100px;
+    z-index: 1;
+    max-width: 12%;
+}
+.nav-flag {
+    display: none !important;
+}
+.anchor_tag {
+    font-size: 10px;
+}
+    .navbar-brand{
+        padding-top: .8125rem
+    }
+
+.footer_content p {
+    text-align: justify;
+}
+
+}
+
+@media screen and (max-width: 800px) and (min-width: 650px)
+{
+.nav-flag {
+    margin-left: 20px;
+    position: absolute;
+    display: inline-block;
+    right: 60px;
+    z-index: 1;
+    max-width: 6%;
+}
+}
+@media (min-width: 768px)
+{
+    .navbar-expand-md>.container, .navbar-expand-md>.container-fluid {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+.navbar-expand-md {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: -7%;
+}
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.navbar>.container, .navbar>.container-fluid {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+@media (max-width: 768px){
+    .footer_content p {
+        text-align: justify;
+    }
+}
+
+/*
+-----------------
+ New Css
+-----------------
+*/
+.hdr-lft{
+  float: left !important;
+}
+.hdr-rgt{
+  float: right !important;
+}
