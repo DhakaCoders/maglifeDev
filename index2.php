@@ -119,31 +119,31 @@
         <div class="mb-price-box-wrp">
           <div class="mb-price-box-dsc text-center">
             <h2 class="mb-price-box-dsc-title">100% Money Back Guarantee</h2>
-            <p><strong>Order right now with confidence! Try it out for 30 days </strong> and if it doesn’t work for you, you can send it back for a refund! There’s absolutely <strong>no-risk</strong> in giving it a try. No questions asked, you can get your money back!</p>
+            <p><strong>Order right now with confidence!</strong> Try it out for <strong>30 days</strong>  and if you don't like it for any reason, you can send it back for a <br> refund! There’s absolutely no-risk in giving it a try. No questions asked, you can get your money back!</p>
           </div>
           <div class="mb-price-box-grid-wrp">
             <ul class="clearfix reset-list">
               <li>
-                <div class="mb-price-box-grid-inr">
+                <div class="mb-price-box-grid-inr mHc">
                   <div class="mb-price-box-angle-inr">
                     <div class="mb-price-box-angle">
-                      <span>BEST <br> SELLER</span>
+                      <span>BEST <br> VALUE</span>
                     </div>
                   </div>
                   <div class="mb-price-box-grid-tp">
-                    <h2 class="mb-price-box-grid-tp-title">2 Units</h2>
-                    <p>Great gift for friends and family!</p>
-                    <h4 class="mb-price-box-grid-tp-title-1">SAVE 44%</h4>
+                    <h2 class="mb-price-box-grid-tp-title">3 Units</h2>
+                    <p>Great for friends and family!</p>
+                    <h4 class="mb-price-box-grid-tp-title-1">SAVE 56%</h4>
                   </div>
                   <div class="mb-price-box-grid-img text-center">
-                    <img src="assets/images/mb-price-box-grid-img-1.jpg">
+                    <img src="assets/images/mb-price-box-grid-img-1.webp">
                   </div>
                   <div class="mb-price-box-grid-btm">
                     <p>
-                      <ins>$89.99</ins>
-                      <strong>Total: $49.99</strong>
+                      <ins>$159</ins>
+                      <strong>Total: $69.99</strong>
                     </p>
-                    <strong>$24.99 per unit</strong>
+                    <strong>$23.33/Unit</strong>
                     <span>FREE SHIPPING</span>
                     <a href="step2.php?product_id=142" class="pro_href_3">BUY NOW!</a>
                     <img src="assets/images/mb-marter-card.png">
@@ -151,26 +151,26 @@
                 </div>
               </li>
               <li id="six_bottles">
-                <div class="mb-price-box-grid-inr">
+                <div class="mb-price-box-grid-inr mHc">
                   <div class="mb-price-box-angle-inr">
                     <div class="mb-price-box-angle">
-                      <span>BEST VALUE</span>
+                      <span>BEST <br> SELLER</span>
                     </div>
                   </div>
                   <div class="mb-price-box-grid-tp">
-                    <h2 class="mb-price-box-grid-tp-title">4 Units</h2>
-                    <p>Great gift for friends and family!</p>
-                    <h4 class="mb-price-box-grid-tp-title-1">SAVE 56%</h4>
+                    <h2 class="mb-price-box-grid-tp-title">2 Units</h2>
+                    <p>Great for friends and family!</p>
+                    <h4 class="mb-price-box-grid-tp-title-1">SAVE 50%</h4>
                   </div>
                   <div class="mb-price-box-grid-img text-center">
-                    <img src="assets/images/mb-price-box-grid-img-2.jpg">
+                    <img src="assets/images/mb-price-box-grid-img-2.webp">
                   </div>
                   <div class="mb-price-box-grid-btm">
                     <p>
-                      <ins>$179.99</ins>
-                      <strong>Total: $78.99</strong>
+                      <ins>$106</ins>
+                      <strong>Total: $49.99</strong>
                     </p>
-                    <strong>$19.75 per unit</strong>
+                    <strong>$24.99/Unit</strong>
                     <span>FREE SHIPPING</span>
                     <a href="step2.php?product_id=143" class="pro_href_6">BUY NOW!</a>
                     <img src="assets/images/mb-marter-card.png">
@@ -178,20 +178,20 @@
                 </div>
               </li>
               <li>
-                <div class="mb-price-box-grid-inr">
+                <div class="mb-price-box-grid-inr mHc">
                   <div class="mb-price-box-grid-tp">
                     <h2 class="mb-price-box-grid-tp-title">1 Unit</h2>
                     <h4 class="mb-price-box-grid-tp-title-1">SAVE 33%</h4>
                   </div>
                   <div class="mb-price-box-grid-img text-center">
-                    <img src="assets/images/mb-price-box-grid-img-3.jpg">
+                    <img src="assets/images/mb-price-box-grid-img-3.webp">
                   </div>
                   <div class="mb-price-box-grid-btm">
                     <p>
-                      <ins>$44.99</ins>
-                      <strong>Total: $29.99</strong>
+                      <ins>$53</ins>
+                      <strong>Total: $34.99</strong>
                     </p>
-                    <strong>$29.99 per unit</strong>
+                    <strong>$29.99/Unit</strong>
                     <span>PLUS $4.99 SHIPPING</span>
                     <a href="step2.php?product_id=141" class="pro_href_1">BUY NOW!</a>
                     <img src="assets/images/mb-marter-card.png">
@@ -213,25 +213,22 @@
       <div class="col-md-12">
         <div class="mb-questions-dsc-wrp">
             <h1 class="mb-questions-dsc-title">Frequently Asked Questions</h1>
-            <h5 class="mb-questions-dsc-title-1">Q: How many bracelets do I need?</h5>
-            <p><strong>A:</strong> We recommend at least 2 bracelets, one for each wrist as this will give best results.
-                You're free to wear them around your ankle too if you want additional relief.</p>
-            <h5 class="mb-questions-dsc-title-1">Q: Is it safe?</h5>
-            <p><strong>A:</strong> Yes, for most people this is safe. However, DO NOT use magnetic therapy if you: have
-                a pacemaker, defibrillator, insulin pump, hepatic artery infusion pumps, or any other implanted
-                electro-medical device; are pregnant; have received a localized cortisone injection within the past 2
-                weeks over the same area.</p>
+            <h5 class="mb-questions-dsc-title-1">Q: What size should I get?</h5>
+            <p><strong>A:</strong> Please refer to our size chart above for determining the correct size.</p>
+            <h5 class="mb-questions-dsc-title-1">Q: Can I wear it all day?</h5>
+            <p><strong>A:</strong> Sure, you can wear it as long as you want. Its ergonomic design makes it comfortable for all day use and the silicone bands help keep it in place regardless of how much you move around.</p>
+            <h5 class="mb-questions-dsc-title-1">Q: Can I wear it underneath clothes?</h5>
+            <p><strong>A:</strong> Yes you can. The knee sleeve provides the perfect amount of compression without being too bulky, which means you can comfortably wear it under your pants without it being bothersome.</p>
+            <h5 class="mb-questions-dsc-title-1">Q: How do I wash it? </h5>
+            <p><strong>A:</strong> We recommend machine washing in cold water using a gentle or delicate cycle. Avoid detergents with additives and do not use fabric softeners. Let the sleeve air dry after being washed.</strong></p>
             <h5 class="mb-questions-dsc-title-1">Q: What is your return policy?</h5>
-            <p><strong>A:</strong> We offer a <strong>30 day money back guarantee.</strong> You are free to try it and
-                see if it helps you for 30 days. If it doesn't work you can send it back to us for a full refund!</p>
+            <p><strong>A:</strong> We offer a 30 day money back guarantee. You are free to try it and see if it helps you for 30 days. If it doesn't work you can send it back to us for a full refund!</p>
+
             <h5 class="mb-questions-dsc-title-1">Q: How long will shipping take? </h5>
-            <p><strong>A:</strong> For USA customers delivery will take between <strong>5 to 14 business days.</strong>
-                For international customers, delivery will take about 12-20 business days. As soon as your order ships
-                we'll email you a tracking number.<strong> Please note due to COVID-19 there might be some shipping
-                    delays with the post office.</strong></p>
+            <p><strong>A:</strong> Please allow between 7-15 days for delivery. As soon as your order ships we'll email you a tracking number. Please note due to COVID-19 there might be some shipping delays with the post office. </p>
+
             <h5 class="mb-questions-dsc-title-1">Q: How can I contact you?</h5>
-            <p>A: If you have any questions just send us an email at <a href="mailto:support@maglifebracelet.com">support@maglifebracelet.com</a>
-                and we'll get back to you within 24 hours! </p>
+            <p><strong>A:</strong> If you have any questions just send us an email at <a href="mailto:support@buygenucare.com">support@buygenucare.com</a> and we'll get back to you within 24 hours! </p>
         </div>
       </div>
     </div>
@@ -260,7 +257,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="ftr-btm">
-            <p>This product is not intended to diagnose, treat, cure, or prevent any disease or health condition. The information provided herein should not be considered as a substitute for the advice of a medical <br> doctor or other healthcare professional. As each individual is different, results may vary. You should consult with a healthcare professional before starting any diet, exercise or supplementation <br> program, before taking any medication, or if you have or suspect you might have a health problem. </p>
+            <p>This product is not intended to diagnose, treat, cure, or prevent any disease or health condition. The information provided herein should not be considered as a substitute for the advice of a medical doctor or other healthcare professional. As each individual is different, results may vary. You should consult with a healthcare professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem. </p>
           </div>
         </div>
       </div>
