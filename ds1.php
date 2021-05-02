@@ -11,7 +11,7 @@ if ($_REQUEST['errorMessage']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Get MagLife Bracelet</title>
+	<title>Get Maglife</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -92,8 +92,8 @@ if ($_REQUEST['errorMessage']) {
     <div class="row">
       <div class="col-md-12">
         <div class="too-much-dsc-wrp">
-          <h3 class="too-much-dsc-title">4 MagLife Bracelets Too Much?</h3>
-          <p>You can still secure a HUGE discount on more MagLife Bracelets but with 2 additional bracelets instead of 4!</p>
+          <h3 class="too-much-dsc-title">3 GenuCare knee sleeves too much?</h3>
+          <p>You can still secure a HUGE discount on more GenuCare knee sleeves but with 2 additional knee sleeves instead of 3!</p>
         </div>
       </div>
     </div>
@@ -133,6 +133,8 @@ if ($_REQUEST['errorMessage']) {
                   </div>
                   <div class="up-single-slider-item" style="background: url(assets/images/upsell-slider-img-1.jpg);">
                   </div>
+                  <div class="up-single-slider-item" style="background: url(assets/images/upsell-slider-img-3.png);">
+                  </div>
                   
                 </div>
               </div>
@@ -144,36 +146,41 @@ if ($_REQUEST['errorMessage']) {
                    <div class="up-pg-slide-item">
                     <div class="up-pg-slide-item-img" style="background: url(assets/images/upsell-slider-pg-img-2.jpg);"></div>
                    </div>
+
+                   <div class="up-pg-slide-item">
+                    <div class="up-pg-slide-item-img" style="background: url(assets/images/upsell-slider-pg-img-3.png);"></div>
+                   </div>
                    
                  </div> 
               </div>
             </div> 
           </div>
           <div class="mb-two-grid-rgt-dsc">
-            <h5> MagLife Bracelet - 2 Units (Special <br> Offer) </h5>
-            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER <br> BRACELET: <ins>$89.99</ins> <strong>$14.99</strong></span>
+            <h5> 2 More Knee Sleeves </h5>
+            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER KNEE SLEEVE: <ins>$89.99</ins> <strong>$52.99 $14.99</strong></span>
 
-            <strong>Savings: $59.99 OFF RETAIL</strong>
+
+            <strong>Savings: $76 OFF RETAIL</strong>
             
             <p><strong>Hey there…</strong></p>
-            <p>I understand that 4 additional MagLife Bracelets may <br> not be what you had in mind. </p>
-            <p>But I also know that staying pain-free and helping loved <br> ones and friends is truly important. </p>
-            <p>I’ve seen first-hand how much of a blessing MagLife can <br> be for those in pain, it can truly change lives… </p>
+            <p>I understand that 3 additional GenuCare knee sleeves may not be what you had in mind.</p>
+            <p>But I also know that staying pain-free and helping loved ones and friends is truly important.</p>
+            <p>I’ve seen first-hand how much of a blessing GenuCare can be for those in pain, it can truly change lives… </p>
             
-            <p>For you, when you need extra bracelets or backups… </p>
+            <p>For you, when you need extra knee sleeves or backups…</p>
             <p>And also for your family, friends, and loved ones… </p>
-            <p>Remember - the raw materials it takes to create MagLife<br> are hard to source, and it takes a very long time to<br> manufacture </p>
-            <p>It’s easy to see why people might be worried that we’ll <br> run out of stock… </p>
-            <p>And we do run out of stock quickly, and often….</p>
-            <p><strong>Which is why I want to give you one more chance to <br>secure an additional 2 MagLife bracelets </strong></p>
-            <p>MagLife is not available in retail stores and the last thing <br> I want is for you to be having pain relief, or seeing a <br> loved one in pain… </p>
-            <p>And for some reason not have an extra bracelet to <br> relieve yourself from that misery</p>
+            <p>Remember - the raw materials it takes to create the special fabric are hard to source, and it takes a very long time to manufacture.</p>
+            <p>It’s easy to see why people might be worried that we’ll run out of stock…</p>
+            <p>And we do run out of stock quickly, and often…</p>
+            <p><strong>Which is why I want to give you one more chance to secure an additional 2 GenuCare knee sleeves</strong></p>
+            <p>GenuCare is not available in retail stores and the last thing I want is for you to be needing pain relief, or seeing a loved one in pain… </p>
+            <p>And for some reason not have an extra knee sleeve to relieve yourself from that misery.</p>
             <p>That’s why this is a private page only...</p>
-            <p>You can stock up on MagLife Bracelets by adding 2 <br> more bracelets to your order for just $29.99…</p>
-            <p>That’s just $14.99 per bracelet, or less than $0.05 per <br> day over a year of use! It’s also a total savings of almost <br> $60 off retail price… </p>
-            <p>This offer is only available to new customers, and I’m so <br> glad you got a chance to be a part of this… </p>
-            <p>So I recommend taking advantage of this exclusive one-<br>time offer by clicking the button below. </p>
-            <p>This is the only time you’ll see this offer, and it’s also <br> covered by our money-back guarantee. So you have <br> nothing to lose.</p>
+            <p>You can stock up on GenuCare knee sleeves by adding 2 more sleeves to your order for just $29.99… </p>
+            <p>That’s just $14.99 per knee sleeve, or less than $0.05 per day over a year of use! It’s also a total savings of almost $76 off retail price…</p>
+            <p>This offer is only available to new customers, and I’m so glad you got a chance to be a part of this… </p>
+            <p>So I recommend taking advantage of this exclusive one-time offer by clicking the button below. </p>
+            <p>This is the only time you’ll see this offer, and it’s also covered by our money-back guarantee. So you have nothing to lose.</p>
             <div class="upsell-two-grid-btm-dsc">
               <div class="upsell-two-grid-tp-price">
                 <span>Price: </span>
@@ -189,6 +196,16 @@ if ($_REQUEST['errorMessage']) {
                 <span>Total: </span>
                 <span><em>N/A</em> </span>
               </div>-->
+              <div class="md-size-select">
+                <select class="form-select" aria-label="Default select example">
+                  <option selected>Select Size</option>
+                  <option value="Small">Small</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Large">Large</option>
+                  <option value="X-Large">X-Large</option>
+                  <option value="XX-Large">XX-Large</option>
+                </select>
+              </div>
               <a href="step2.php?product_id=145" class="addcart">ADD TO ORDER</a>
               <a href="/up2.php" class="addcart">NO THANKS, I'LL PASS</a>
             </div>
@@ -201,17 +218,6 @@ if ($_REQUEST['errorMessage']) {
 
 
 <footer class="up-footer-wrp">
-  <div class="up-footer-tp-wrp">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="up-footer-inr">
-            <a href="javascript:void(0)">Order now!</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="up-footer-btm-wrp">
     <div class="container">
       <div class="row">

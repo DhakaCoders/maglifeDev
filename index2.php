@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Get MagLife Bracelet</title>
+	<title>Get Maglife</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,7 +10,8 @@
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto&display=swap" rel="stylesheet"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="style-2.css">
 
@@ -145,6 +146,16 @@
                     </p>
                     <strong>$23.33/Unit</strong>
                     <span>FREE SHIPPING</span>
+                    <div class="md-size-select">
+                      <select class="form-select" aria-label="Default select example">
+                        <option selected>Select Size</option>
+                        <option value="Small">Small</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Large">Large</option>
+                        <option value="X-Large">X-Large</option>
+                        <option value="XX-Large">XX-Large</option>
+                      </select>
+                    </div>
                     <a href="step2.php?product_id=142" class="pro_href_3">BUY NOW!</a>
                     <img src="assets/images/mb-marter-card.png">
                   </div>
@@ -172,6 +183,16 @@
                     </p>
                     <strong>$24.99/Unit</strong>
                     <span>FREE SHIPPING</span>
+                    <div class="md-size-select">
+                      <select class="form-select" aria-label="Default select example">
+                        <option selected>Select Size</option>
+                        <option value="Small">Small</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Large">Large</option>
+                        <option value="X-Large">X-Large</option>
+                        <option value="XX-Large">XX-Large</option>
+                      </select>
+                    </div>
                     <a href="step2.php?product_id=143" class="pro_href_6">BUY NOW!</a>
                     <img src="assets/images/mb-marter-card.png">
                   </div>
@@ -193,6 +214,16 @@
                     </p>
                     <strong>$29.99/Unit</strong>
                     <span>PLUS $4.99 SHIPPING</span>
+                    <div class="md-size-select">
+                      <select class="form-select" aria-label="Default select example">
+                        <option selected>Select Size</option>
+                        <option value="Small">Small</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Large">Large</option>
+                        <option value="X-Large">X-Large</option>
+                        <option value="XX-Large">XX-Large</option>
+                      </select>
+                    </div>
                     <a href="step2.php?product_id=141" class="pro_href_1">BUY NOW!</a>
                     <img src="assets/images/mb-marter-card.png">
                   </div>

@@ -11,7 +11,7 @@ if ($_REQUEST['errorMessage']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Get MagLife Bracelet</title>
+	<title>Get Maglife</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -92,8 +92,8 @@ if ($_REQUEST['errorMessage']) {
     <div class="row">
       <div class="col-md-12">
         <div class="too-much-dsc-wrp">
-          <h3 class="too-much-dsc-title">Special Deal For New Customers Only!</h3>
-          <p>Get 2 Pairs Of MagLife Insoles for Just $20 per pair!</p>
+          <h3 class="too-much-dsc-title">A Special Deal For New Customers Only</h3>
+          <p>Get 2 Pairs Of GenuCare Insoles for Just $20 per pair!</p>
         </div>
       </div>
     </div>
@@ -125,41 +125,41 @@ if ($_REQUEST['errorMessage']) {
             </div>
           </div>
           <div class="mb-two-grid-rgt-dsc">
-            <h5> MagLife Insoles - 2 Pairs  </h5>
-            <p>This is the absolute lowest price you’ll ever see for <br> MagLife Insoles…and gives you chance to grab <br> them <strong>FIRST</strong> before they are released to the public </p>
+            <h5> 2 Insoles </h5>
+            <p>This is the absolute lowest price you’ll ever see for GenuCare Insoles…and gives you chance to grab them <strong>FIRST</strong> before they are released to the public </p> 
             <div class="updell-price">
               <strong style="color: rgb(57, 123, 33);">Savings: $60 OFF RETAIL</strong>
               <span>Keep reading for all of the details.</span>
             </div>
             
             <p><strong>Hey there…</strong></p>
-            <p>It’s Henrik again…</p>
-            <p>And I want to let you in on an exclusive offer that has <br> not yet been released to the public… </p>
-            <p>You already know the MagLife bracelet can work <br> wonders on pain, especially in your hands, and <br> throughout the rest of your joints… </p>
+            <p>It’s Pat again…</p>
+            <p>And I want to let you in on an exclusive offer that has not yet been released to the public… </p>
+            <p>You already know the GenuCare knee sleeves can work wonders on your knees...</p>
             
-            <p>And the MagLife bracelet is ALL you need to reach your <br> goals of a pain-free life… </p>
+            <p>And the GenuCare knee sleeve is ALL you really need to reach your goals of a pain-free life… </p>
             <p><u style="text-decoration: underline;">HOWEVER:</u></p>
             <p>Some customers came to me, and said </p>
-            <p><em>“The MagLife Bracelet works GREAT, I feel amazing… I <br> wish you had something similar for my feet and back pain” </em></p>
-            <p>It turns out the MagLife bracelet is helping people <br> around the world with joint pain as well as bodily pain in <br> general… </p>
+            <p><em>“The GenuCare knee sleeve works GREAT, I feel amazing… I wish you had something similar for my feet and back pain” </em></p>
+            <p>It turns out the GenuCare knee sleeve is helping people around the world with knee pain...</p>
             <p>But some people wanted an <strong> extra boost.</strong></p>
-            <p>So… we answered their request, and developed the <br> perfect complement to the MagLife bracelet, and that’s <br> this: </p>
-            <p><strong>MagLife Magnetic Insoles</strong></p>
-            <p>Now, not only can you have MagLife bracelets working <br> from your wrists and throughout your body… </p>
-            <p>And you can also have an added pain relief “boost” that <br> works from the feet up, with every step that you walk!</p>
+            <p>So… we answered their request, and developed the perfect complement to the GenuCare knee sleeve, and that’s this: </p>
+            <p><strong>GenuCare Magnetic Insoles</strong></p>
+            <p>Now, not only can you have GenuCare knee sleeves working around the clock to protect your knees and give them relief...</p>
+            <p>But you can also have an added pain relief “boost” that works from the feet up, with every step that you walk!</p>
             <p>The insole fits <u style="text-decoration: underline;">all shoe sizes</u> and transforms to fit all shoe shapes!</p>
-            <p>Now - you may have seen similar things on the market, <br> but I promise this is unlike any of those… </p>
-            <p>It’s made using the same precision magnet types that <br> are embedded in the MagLife bracelet… </p>
-            <p>And created in collaboration with a true natural pain <br>researcher…</p>
-            <p>Now you can get a “soothing massage” with every step <br> you take… </p>
-            <p>Hitting 175 acupressure points in your feet, and <br> providing an extra surge of relief to your back, hips, <br> neck and more!</p>
-            <p>All you need to do is put the insole in your regular shoes <br> and when you stand up or walk, feel the pain dissolving <br> throughout your body</p>
-            <p><strong>This invention has not yet been released to the <br> market, because stock is low… and we know once <br> it’s released, demand will go through the roof… </strong></p>
-            <p>So we wanted to give our first time, loyal customers a <br> chance to jump on it first </p>
-            <p>And if you add this offer on to your order today, you can <br> get 2 pairs of MagLife insoles for you... as extra backup <br> pairs... and for your family and friends… </p>
+            <p>Now - you may have seen similar things on the market, but I promise this is unlike any of those…</p>
+            <p>It’s made using special precision magnet types that are embedded into the insole...</p>
+            <p>And created in collaboration with a true natural pain researcher…</p>
+            <p>Now you can get a “soothing massage” with every step you take…</p>
+            <p>Hitting 175 acupressure points in your feet, and providing an extra surge of relief to your back, hips, neck and more!</p>
+            <p>All you need to do is put the insole in your regular shoes and when you stand up or walk, feel the pain “dissolving” throughout your body.</p>
+            <p><strong>This invention has not yet been released to the market, because stock is low… and we know once it’s released, demand will go through the roof…</strong></p>
+            <p>So we wanted to give our first time, loyal customers a chance to jump on it first </p>
+            <p>And if you add this offer on to your order today, you can get 2 pairs of GenuCare insoles for you... as extra backup pairs... and for your family and friends… </p>
             <p><strong>For just $20 per pair for 2 pairs, that’s $60 off retail!</strong></p>
-            <p>Once released to the public, the price will go up to $50 <br> per pair! (if it’s even in stock!)</p>
-            <p>So take advantage of this exclusive offer now, by <br> clicking the button below. This too is covered by a <br> money-back guarantee so you have nothing to lose.</p>
+            <p>Once released to the public, the price will go up to $50 per pair! (if it’s even in stock!)</p>
+            <p>So take advantage of this exclusive offer now, by clicking the button below. This too is covered by a money-back guarantee so you have nothing to lose.</p>
             <div class="upsell-two-grid-btm-dsc">
               <div class="upsell-two-grid-tp-price">
                 <span>Price: </span>
@@ -177,6 +177,16 @@ if ($_REQUEST['errorMessage']) {
                 <span>Total: </span>
                 <span><em>N/A</em> </span>
               </div>-->
+              <div class="md-size-select">
+                <select class="form-select" aria-label="Default select example">
+                  <option selected>Select Size</option>
+                  <option value="Small">Small</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Large">Large</option>
+                  <option value="X-Large">X-Large</option>
+                  <option value="XX-Large">XX-Large</option>
+                </select>
+              </div>
               <a href="step2.php?product_id=146" class="addcart">ADD TO ORDER</a>
               <a href="/ds2.php" class="addcart">NO THANKS, I'LL PASS</a>
             </div>
@@ -189,17 +199,6 @@ if ($_REQUEST['errorMessage']) {
 
 
 <footer class="up-footer-wrp">
-  <div class="up-footer-tp-wrp">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="up-footer-inr">
-            <a href="javascript:void(0)">Order now!</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="up-footer-btm-wrp">
     <div class="container">
       <div class="row">

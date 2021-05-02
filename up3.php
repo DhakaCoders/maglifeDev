@@ -11,7 +11,7 @@ if ($_REQUEST['errorMessage']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Get Lifetime Warranty!</title>
+	<title>Get Maglife</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -92,8 +92,7 @@ if ($_REQUEST['errorMessage']) {
     <div class="row">
       <div class="col-md-12">
         <div class="too-much-dsc-wrp">
-          <h3 class="too-much-dsc-title">Get Lifetime Warranty!</h3>
-          <p>93% of customers accepted this offer</p>
+          <h3 class="too-much-dsc-title">Final Bonus Offer - Get Lifetime Warranty </h3>
         </div>
       </div>
     </div>
@@ -125,8 +124,12 @@ if ($_REQUEST['errorMessage']) {
             </div>
           </div>
           <div class="mb-two-grid-rgt-dsc">
-            <h5> Lifetime Warranty  </h5>
-            <p style="font-size: 13pt;font-weight: 500;">Get a lifetime protection and replacement <br> warranty for only an additional $10.00.<br> This extended warranty means your product is<br> covered for LIFE.</p>
+            <h5>  Warranty </h5>
+            <p>Hey, before I send you over the order confirmation page, I just wanted to share with you one final bonus offer that over 90% of our customers take.</p>
+            <p>By accepting the offer below, you can get lifetime protection and replacement warranty for your knee sleeve for just $10…</p>
+            <p>This means your product is covered for LIFE… and any issues that you encounter, we can fix by sending you a replacement at no-extra charge to you!</p>
+            <p>Considering a GenuCare knee sleeve retails at $53, being able to get a new one for $10 is a steal! </p>
+            <p>If you’re interested, just click the button below.</p>
 
             <div class="upsell-two-grid-btm-dsc">
               <div class="upsell-two-grid-tp-price">
@@ -145,6 +148,16 @@ if ($_REQUEST['errorMessage']) {
                 <span>Total: </span>
                 <span><em>N/A</em> </span>
               </div>-->
+              <div class="md-size-select">
+                <select class="form-select" aria-label="Default select example">
+                  <option selected>Select Size</option>
+                  <option value="Small">Small</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Large">Large</option>
+                  <option value="X-Large">X-Large</option>
+                  <option value="XX-Large">XX-Large</option>
+                </select>
+              </div>
               <a href="step2.php?product_id=148" class="addcart">ADD TO ORDER</a>
               <a href="/thank-you.php" class="addcart">NO THANKS, I'LL PASS</a>
             </div>
@@ -157,17 +170,6 @@ if ($_REQUEST['errorMessage']) {
 
 
 <footer class="up-footer-wrp">
-  <div class="up-footer-tp-wrp">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="up-footer-inr">
-            <a href="javascript:void(0)">Order now!</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="up-footer-btm-wrp">
     <div class="container">
       <div class="row">

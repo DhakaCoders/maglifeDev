@@ -19,7 +19,7 @@ body {
     color: #262626;
     font-size: 18px;
     line-height: 22px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     /*font-family: 'Roboto', sans-serif;*/
     font-weight: 400;
 }
@@ -31,7 +31,7 @@ All heading
 */
 h1,h2,h3,h4,h5,h6{
 	line-height: 1;	
-	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #262626;
 }
 h1{
@@ -288,14 +288,14 @@ mb-logo-sec-wrp
 	display: block;
 	font-size: 28px;
 	line-height: 1.2;
-	color: #000;
+	color: #262626;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
 .mb-two-grid-dsc ul li{
 	font-size: 18px;
 	line-height: 1.5;
-	color: #333;
+	color: #262626;
 	font-weight: 400;
 }
 .mb-two-grid-dsc ul li i {
@@ -326,7 +326,7 @@ mb-logo-sec-wrp
 
 .mb-place-your-odr-lft p{
 	margin-bottom: 0;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 1;
 	color: #262626;
 	text-align: right;
@@ -346,7 +346,7 @@ mb-logo-sec-wrp
 	display: inline-block;
 	vertical-align: baseline;
 	text-decoration: none;
-	font-size: 24px;
+	font-size: 20px;
 	line-height: 1;
 	color: #fff;
 	font-weight: 700;
@@ -460,7 +460,7 @@ mb-logo-sec-wrp
 	margin-bottom: 15px;
 }
 .mb-price-box-grid-tp-title-1{
-	font-size: 24px;
+	font-size: 30px;
 	line-height: 1;
 }
 .mb-price-box-grid-tp p{
@@ -476,7 +476,7 @@ mb-logo-sec-wrp
 .mb-price-box-grid-btm p ins{
 	display: inline-block;
 	vertical-align: baseline;
-	font-size: 20px;
+	font-size: 18px;
 	line-height: 1;
 	color: #999;
 	font-weight: 700;
@@ -585,7 +585,7 @@ mb-questions-content-sec-wrp
 	float: left;
 	font-size: 14px;
 	line-height: 16px;
-	font-weight: 700;
+	font-weight: 400;
 	padding: 7px 30px;
 	position: relative;
 }
@@ -623,7 +623,7 @@ mb-questions-content-sec-wrp
 	font-size: 12px;
 	line-height: 1;
 	color: #000;
-	font-weight: 700;
+	font-weight: 400;
 	padding-top: 20px;
 }
 
@@ -1259,6 +1259,29 @@ body .slider-nav .slick-track{
 }
 .sitemap ul a{
 	color: inherit;
+}
+
+.md-size-select{
+	padding-bottom: 20px;
+	text-align: center;
+}
+.md-size-select select{
+    max-width: 160px;
+    width: 100%;
+    margin: 0 auto;
+    height: 40px;
+    padding: 9px 10px 10px;
+    font-size: 17px;
+    line-height: 1;
+    color: #262626;
+    font-weight: 400 !important;
+    text-transform: uppercase;
+}
+.md-size-select select option{
+	font-size: 17px;
+	line-height: 1;
+	color: #262626;
+	font-weight: 400 !important;
 }
 
 

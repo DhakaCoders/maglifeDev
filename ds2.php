@@ -11,7 +11,7 @@ if ($_REQUEST['errorMessage']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Get MagLife Insoles</title>
+	<title>Get Maglife</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -93,7 +93,7 @@ if ($_REQUEST['errorMessage']) {
       <div class="col-md-12">
         <div class="too-much-dsc-wrp">
           <h3 class="too-much-dsc-title">2 Pairs Of Insoles Too Much?</h3>
-          <p>You can still secure a HUGE discount on MagLife Insoles… but with just 1 pair instead of 2!</p>
+          <p>You can still secure a HUGE discount on GenuCare Insoles… but with just 1 pair instead of 2!</p>
         </div>
       </div>
     </div>
@@ -125,25 +125,26 @@ if ($_REQUEST['errorMessage']) {
             </div>
           </div>
           <div class="mb-two-grid-rgt-dsc">
-            <h5> MagLife Insoles - 1 Pair </h5>
-            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER PAIR OF <br> INSOLES: <ins>$49.99</ins> <strong>$19.99</strong></span>
+            <h5> 1 Insoles</h5>
+            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER PAIR OF <br> INSOLES: <ins>$89.99 $20.00</ins> <strong>$19.99</strong></span>
             <strong>Savings: $30.00 OFF RETAIL</strong>
 
             
             <p><strong>Hey there…</strong></p>
-            <p>I know 2 pairs of MagLife insoles may be too much now, <br> since everyone’s situation is different..</p>
-            <p>And maybe you want to try them out first before you <br> grab some backups or pairs for family and friends… </p>
-            <p>And that’s fine! </p>
+            <p>I know 2 pairs of GenuCare insoles may be too much now, since everyone’s situation is different.. </p>
+            <p>And maybe you want to try them out first before you grab some backups or pairs for family and friends… </p>
+            <p>And that’s fine!</p>
             
-            <p>I guarantee once you try these insoles along with the <br> MagLife bracelet, you’ll be happy with your decision (it is <br> your decision after all!)...</p>
-            <p>I just want to make sure that you too get a chance to <br> receive this <strong>extra boost</strong> to your pain relief… </p>
-            <p>Especially since once these insoles are released to the <br> public, they’re going to sell out fast… we have a huge <br> list of people waiting for them already… </p>
-            <p>And that’s why since you’re a first time customer, I want <br> to give you one more chance to grab these insoles….  </p>
-            <p>...Before the public gets a chance, and at a FRACTION <br> of the price they’ll get them for! </p>
-            <p>So instead of grabbing 2 pair of insoles, if you order <br> today…</p>
-            <p><strong>You can grab 1 pair of MagLife Insoles for just $20, <br> or $30 off retail! </strong></p>
-            <p>If you want peace of mind knowing you’ve done <br> everything you can to reach your goals of a pain-free <br> life… </p>
-            <p>….And that you’ve grabbed these while you still can <br> take advantage of this exclusive offer now, by clicking <br> the button below. This too is covered by a money-back <br> guarantee so you have nothing to lose. </p>
+            <p>I guarantee once you try these insoles along with the GenuCare knee sleeve, you’ll be happy with your decision (it is your decision after all!)...</p>
+            <p>I just want to make sure that you too get a chance to receive this <strong>extra boost</strong> to your pain relief…  </p>
+            <p>Especially since once these insoles are released to the public, they’re going to sell out fast… we have a huge list of people waiting for them already…</p>
+            <p>And that’s why since you’re a first time customer, I want to give you one more chance to grab these insoles…. </p>
+            <p>...Before the public gets a chance, and at a FRACTION of the price they’ll get them for! </p>
+            <p>So instead of grabbing 2 pair of insoles, if you order today…</p>
+            <p><strong>You can grab 1 pair of GenuCare Insoles for just $20, or $30 off retail! </strong></p>
+            <p>If you want peace of mind knowing you’ve done everything you can to reach your goals of a pain-free life… </p>
+            <p>….And that you’ve grabbed these while you still can</p>
+            <p>Take advantage of this exclusive offer now, by clicking the button below. This too is covered by a money-back guarantee so you have nothing to lose. </p>
 
             <div class="upsell-two-grid-btm-dsc">
               <div class="upsell-two-grid-tp-price">
@@ -162,6 +163,16 @@ if ($_REQUEST['errorMessage']) {
                 <span>Total: </span>
                 <span><em>N/A</em> </span>
               </div>-->
+              <div class="md-size-select">
+                <select class="form-select" aria-label="Default select example">
+                  <option selected>Select Size</option>
+                  <option value="Small">Small</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Large">Large</option>
+                  <option value="X-Large">X-Large</option>
+                  <option value="XX-Large">XX-Large</option>
+                </select>
+              </div>
               <a href="step2.php?product_id=147" class="addcart">ADD TO ORDER</a>
               <a href="/up3.php" class="addcart">NO THANKS, I'LL PASS</a>
             </div>
@@ -174,17 +185,6 @@ if ($_REQUEST['errorMessage']) {
 
 
 <footer class="up-footer-wrp">
-  <div class="up-footer-tp-wrp">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="up-footer-inr">
-            <a href="javascript:void(0)">Order now!</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
   <div class="up-footer-btm-wrp">
     <div class="container">
       <div class="row">
