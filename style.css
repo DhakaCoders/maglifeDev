@@ -1263,7 +1263,7 @@ body .slider-nav .slick-track{
 
 .md-size-select{
 	padding-bottom: 20px;
-	text-align: center;
+	text-align: left;
 }
 .md-size-select select{
     max-width: 160px;
