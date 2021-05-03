@@ -157,7 +157,7 @@ if ($_REQUEST['errorMessage']) {
           </div>
           <div class="mb-two-grid-rgt-dsc">
             <h5> 2 More Knee Sleeves </h5>
-            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER KNEE SLEEVE: <ins>$89.99</ins> <strong>$52.99 $14.99</strong></span>
+            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER KNEE SLEEVE: <ins>$52.99</ins> <strong>$14.99</strong></span>
 
 
             <strong>Savings: $76 OFF RETAIL</strong>
@@ -184,7 +184,7 @@ if ($_REQUEST['errorMessage']) {
             <div class="upsell-two-grid-btm-dsc">
               <div class="upsell-two-grid-tp-price">
                 <span>Price: </span>
-                <strong> $29.99</strong>
+                <strong> $14.99</strong>
                 <span class="hide-xs">+ Sales tax (for CT residents)</span>
                 <span class="show-xs">+ Sales tax (for CT residents)</span>
               </div>

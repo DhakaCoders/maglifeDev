@@ -72,7 +72,9 @@
 .ftr-btm p{
 	padding-top: 15px !important;
 }
-
+.mb-price-box-grid-wrp .md-size-select{
+	text-align: center;
+}
 
 
 

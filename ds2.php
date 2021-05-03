@@ -126,7 +126,7 @@ if ($_REQUEST['errorMessage']) {
           </div>
           <div class="mb-two-grid-rgt-dsc">
             <h5> 1 Insoles</h5>
-            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER PAIR OF <br> INSOLES: <ins>$89.99 $20.00</ins> <strong>$19.99</strong></span>
+            <span><u>NEW CUSTOMERS ONLY</u> PRICE PER PAIR OF <br> INSOLES: <ins>$89.99 </ins> <strong>$20.00</strong></span>
             <strong>Savings: $30.00 OFF RETAIL</strong>
 
             

@@ -228,7 +228,7 @@ if ($_REQUEST['errorMessage']) {
                         <div class="upsell-two-grid-btm-dsc">
                             <div class="upsell-two-grid-tp-price">
                                 <span>Price: </span>
-                                <strong> $59.96</strong>
+                                <strong> $44.97</strong>
                                 <span class="hide-xs">+ Sales tax (for CT residents)</span>
                                 <span class="show-xs">+ Sales tax (for CT residents)</span>
                                 <!--<span class="hide-xs">+<em> N/A</em> taxes </span>
