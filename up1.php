@@ -162,27 +162,13 @@ if ($_REQUEST['errorMessage']) {
                                 </div>
                                 <div class="slider slider-single">
                                     <div class="up-single-slider-item"
-                                         style="background: url(assets/images/upsell-slider-img-1.jpg);">
-                                    </div>
-                                    <div class="up-single-slider-item"
-                                         style="background: url(assets/images/upsell-slider-img-1.jpg);">
-                                    </div>
-                                    <div class="up-single-slider-item"
                                          style="background: url(assets/images/upsell-slider-img-3.png);">
                                     </div>
 
                                 </div>
                             </div>
-                            <div class="up-slider-pagination">
+                            <div class="up-slider-pagination" style="display: none;">
                                 <div class="slider slider-nav">
-                                    <div class="up-pg-slide-item">
-                                        <div class="up-pg-slide-item-img"
-                                             style="background: url(assets/images/upsell-slider-pg-img-1.jpg);"></div>
-                                    </div>
-                                    <div class="up-pg-slide-item">
-                                        <div class="up-pg-slide-item-img"
-                                             style="background: url(assets/images/upsell-slider-pg-img-2.jpg);"></div>
-                                    </div>
                                     <div class="up-pg-slide-item">
                                         <div class="up-pg-slide-item-img"
                                              style="background: url(assets/images/upsell-slider-pg-img-3.png);"></div>

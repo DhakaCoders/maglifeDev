@@ -177,16 +177,6 @@ if ($_REQUEST['errorMessage']) {
                 <span>Total: </span>
                 <span><em>N/A</em> </span>
               </div>-->
-              <div class="md-size-select">
-                <select class="form-select" aria-label="Default select example">
-                  <option selected>Select Size</option>
-                  <option value="Small">Small</option>
-                  <option value="Medium">Medium</option>
-                  <option value="Large">Large</option>
-                  <option value="X-Large">X-Large</option>
-                  <option value="XX-Large">XX-Large</option>
-                </select>
-              </div>
               <a href="step2.php?product_id=146" class="addcart">ADD TO ORDER</a>
               <a href="/ds2.php" class="addcart">NO THANKS, I'LL PASS</a>
             </div>
